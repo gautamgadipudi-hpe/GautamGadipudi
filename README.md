@@ -1,3 +1,10 @@
+### :wave: Hi, my name is Gautam.
+
+👨‍🎓 Graduate student pursuing Masters degree in Computer Science at Rochester Institute of Technology.
+
+💻 Actively looking for Full Stack developer and Software engineer full-time roles and internships.
+
+
 # My GitHub stats
 My GitHub stats.
 
