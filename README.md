@@ -2,9 +2,9 @@
 
 👨‍🎓 Graduate student pursuing Masters degree in Computer Science at Rochester Institute of Technology.
 
-💻 Actively looking for Full Stack developer and Software engineer full-time roles and internships.
+💻 I am a passionate full-stack developer actively looking for Full Stack developer and Software engineer full-time roles and internships.
 
-:zap: I like to solve challenging problems using 1's and 0's and play board games.
+:zap: I like to solve challenging real world problems and play board games.
 
 
 ### My GitHub stats
