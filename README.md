@@ -1,4 +1,4 @@
 # me
 A brief summary of Gautam Gadipudi
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamgadipudi)](https://github.com/anuraghazra/github-readme-stats)
