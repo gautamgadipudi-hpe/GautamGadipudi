@@ -4,9 +4,10 @@
 
 💻 Actively looking for Full Stack developer and Software engineer full-time roles and internships.
 
+:zap: I like to solve challenging problems using 1's and 0's and play board games.
 
-# My GitHub stats
-My GitHub stats.
+
+### My GitHub stats
 
 ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamgadipudi&count_private=true&theme=dracula)
 
