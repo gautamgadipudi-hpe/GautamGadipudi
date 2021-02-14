@@ -7,9 +7,7 @@
 :zap: I like to solve challenging real world problems and play board games.
 
 
-### My GitHub stats
-
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamgadipudi&count_private=true&theme=dracula)
+### My favorite languages
 
 ![Gautam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgadipudi&theme=dracula&layout=compact)
 
