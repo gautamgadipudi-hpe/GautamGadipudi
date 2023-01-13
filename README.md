@@ -4,4 +4,4 @@
 
 💼 Working full-time as a Software Engineer.
 
-![Gautam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgadipudi&theme=dracula&layout=compact)
+![Gautam's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gautamgadipudi&theme=dracula&layout=compact)
